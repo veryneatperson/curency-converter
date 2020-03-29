@@ -1,0 +1,7 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+/* Inverted Hover */
+@invertedHoverBackground: #8b9dc3;
+

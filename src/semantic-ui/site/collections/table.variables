@@ -1,0 +1,6 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+/* Table Header */
+@headerBackground: #dfe3ee;

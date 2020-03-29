@@ -1,0 +1,10 @@
+/*******************************
+     User Global Variables
+*******************************/
+@blue: #3b5998;
+@teal : #8b9dc3;
+@primaryColor: #002f4e;
+@pageBackground: #f7f7f7;
+
+/* The size of page text  */
+@fontSize : 16px;
